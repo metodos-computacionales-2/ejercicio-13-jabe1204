@@ -22,3 +22,6 @@ Al correr el .cpp de la forma normal, compilado y luego ejecutar, se genera el e
 
 ### Ejercicio 7
 Mientras que en el ejercicio 6.2 o 7 al hacerlo del modo Stack, la memoria que puede almacenar es mucho mayor, alcance a multiplicar por 10 millones y no crasheo. 
+
+### Ejercicio multiplicación de matrices
+Para este ejercicio se pide ingresar los valores de la longitud de las filas y colomnas de casa una de las matrices. PAra que funcione se debe insertar el mismo valor de columnas para la matriz a y para el valor de filas de la matriz B, sino se dará un mensaje de error. A continuación, se piden los valores por cada una de las posiciones de las matrices. Y por último, se retorna los valores de la multiplicación.
